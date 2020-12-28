@@ -4,8 +4,8 @@
 @File : get_data.py
 @Desc : 获取数据
 '''
-from seq2seq.utils.DBConn import OracleConn
-from seq2seq.sql import wt_df
+from tf1.utils.DBConn import OracleConn
+from tf1.sql import wt_df
 from pandas import DataFrame
 import numpy as np
 

@@ -2,7 +2,7 @@
 @Time : 2020/12/9 10:13
 @Author : xzw
 @File : get_data.py
-@Desc : 
+@Desc : 获取数据
 '''
 from seq2seq.utils.DBConn import OracleConn
 from seq2seq.sql import wt_df

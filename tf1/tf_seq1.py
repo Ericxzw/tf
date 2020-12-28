@@ -8,7 +8,7 @@ import sys
 import numpy as np
 import tensorflow as tf
 from tensorflow.contrib.legacy_seq2seq.python.ops import seq2seq
-import seq2seq.word_token as word_token
+import tf1.word_token as word_token
 import jieba
 import random
 
